@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">BluetoothPrinter</string>
+    <string name="text_bluetooth_off">Bluetooth OFF</string>
+    <string name="text_enable">ENABLE</string>
+    <string name="text_print">PRINT</string>
+    <string name="text_view_paired">Pair</string>
+    <string name="text_list_devices">List Device</string>
+    <string name="text_pair">Pair</string>
 </resources>
